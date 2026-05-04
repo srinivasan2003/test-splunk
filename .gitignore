@@ -1,0 +1,12 @@
+# Ignore binaries
+*.exe
+*.bin
+*.dll
+*.so
+
+# Ignore build folders
+bin/
+
+# OS files
+.DS_Store
+Thumbs.db
